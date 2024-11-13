@@ -1,6 +1,9 @@
 # 💻 Zakaria Siddiqui - Full Stack MERN Developer
 
-Hello! I'm Zakaria Siddiqui , a passionate Full Stack Developer specializing in the **MERN stack** (MongoDB, Express.js, React, and Node.js). I’m enthusiastic about creating responsive, user-centric applications and am actively seeking **opportunities** to bring my skills to a dynamic team.
+Hello! I'm Zakaria Siddiqui
+a passionate Full Stack Developer specializing in the **MERN stack** (MongoDB, Express.js, React, and Node.js).
+I’m enthusiastic about creating responsive
+user-centric applications and am actively seeking **opportunities** to bring my skills to a dynamic team.
 
 ---
 
