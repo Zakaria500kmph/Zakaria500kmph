@@ -5,7 +5,6 @@ a passionate Full Stack Developer specializing in the **MERN stack** (MongoDB, E
 I’m enthusiastic about creating responsive
 user-centric applications and am actively seeking **opportunities** to bring my skills to a dynamic team.
 
-<center><img src="https://github.com/user-attachments/assets/4db53ae6-0938-488d-8e48-6ea21487eb35" alt="twocaeh0b2p91" width="300" style="border-radius: 100%" /></center>
 
 ---
 ## 🚀 About Me
